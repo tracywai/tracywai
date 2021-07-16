@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tracywai
-- 👀 I’m interested in basketball, word games, and design.
+- 👀 Some things I'm interested in are basketball,reading, and UX design.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on coding a word hunt solver!
-- 📫 How to reach me: instagram @tracywai_
+- 💞️ I’m looking to collaborate on coding anything related to word games!
+- 📫 How to reach me: tracywai_ on Instagram
 
 <!---
 tracywai/tracywai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
