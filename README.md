@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tracywai
 - 👀 Some things I'm interested in are basketball,reading, and UX design.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on coding anything related to word games!
 - 📫 How to reach me: tracywai_ on Instagram
 
