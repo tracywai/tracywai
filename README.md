@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tracywai
-- 👀 Some things I'm interested in are basketball,reading, and UX design.
+- 👀 Some things I'm interested in are web development and product design.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on coding anything related to word games!
+- 💞️ I’m looking to collaborate on coding anything related to web apps (or word game solvers)!
 - 📫 How to reach me: tracywai_ on Instagram
 
 <!---
